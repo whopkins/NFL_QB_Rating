@@ -1,0 +1,46 @@
+/* CSS Document */
+
+td {
+	padding-left: 20px;
+}
+
+#qbr-form {
+	border: 1px solid #CCC;
+	width: 400px;
+	padding: 20px;
+	margin-bottom: 20px;
+}
+
+#qbr-form label {
+	float: left;
+	text-align: right;
+	width: 180px;
+}
+
+#qbr-form input {
+	margin: 5px 0 5px 20px;
+}
+
+#qbr-form button {
+	font-size: 16px;
+	padding: 10px;
+	margin: 20px 0 0 200px;
+}
+
+#qbr-result-wrapper {
+	border: 1px solid #000;
+	width: 400px;
+	padding: 20px;
+}
+
+.qbr-result-label {
+	font-weight: 700;
+	float: left;
+	text-align: right;
+	width: 180px;
+}
+
+.qbr-result-number {
+	margin: 5px 0 5px 20px;
+}
+
