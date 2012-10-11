@@ -18,7 +18,7 @@ echo round($player_stats->qbr(), 2);
 ###CSS
 I went ahead and beautified it with some CSS.  It's nothing special, but for anyone looking to learn basic CSS it may be helpful.
 
-![NFL QBR Screenshot](NFL_QBR_Rating/images/nfl_qbr_screenshot.png "NFL QBR Application with PHP using OOP")
+![NFL QBR Screenshot](NFL_QBR_Rating/blob/master/images/nfl_qbr_screenshot.png "NFL QBR Application with PHP using OOP")
 
 ##Origin of the project
 For a Microsoft Excel class that I have taught at the local recreation center I come up with real life uses for Excel since they were easier to relate to.  One of the problems challenged the students to use Excel to create a model that would output an NFL Quarterback Rating (NFL QBR) based on the five inputs to NFL QBR:
