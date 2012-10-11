@@ -75,7 +75,7 @@ $player_stats = new QBR($player_attempts, $player_completions, $player_yards, $p
           </div>
           <div class="calc-mini-panel">
             <button type="submit">Calculate</button>
-            <div class="qbr-result-number"><?php echo round($player_stats->qbr(), 2) ?></div>
+            <div class="qbr-result-number"><?php echo round($player_stats->qbr(), 2); ?></div>
           </div>
         </form>
       	<div class="clear"></div>
